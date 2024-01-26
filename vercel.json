@@ -12,7 +12,7 @@
     "rewrites":[
         {
             "source":"/(.*)",
-            "destination":"https://dt-money-server-indol.vercel.app/"
+            "destination":"server.js"
         }
     ]
 }
